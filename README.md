@@ -1,13 +1,11 @@
 # Hi there 👋, I'm [Omer Algreeb]
 
-![Profile Views](https://gpvc.arturio.dev/omer-agreeb)
-
 ## About Me
 
 I am a Ruby on Rails developer with 4 years of experience. I am passionate about building scalable web applications and contributing to open-source projects. 
 
-- 🔭 I’m currently working on [Mrsool]
-- 🌱 I’m currently learning [New Technology or Tool]
+- 🔭 I’m currently working on [Mrsool][https://mrsool.co/]
+- 🌱 I've previously worked on [JISR][https://www.jisr.net/]
 - 👯 I’m looking to collaborate on Ruby on Rails projects
 - 🤔 I’m looking for help with advanced Ruby on Rails techniques
 - 💬 Ask me about Ruby on Rails
@@ -37,23 +35,15 @@ I am a Ruby on Rails developer with 4 years of experience. I am passionate about
 
 ## Projects
 
-- [Project 1](link): A brief description of what the project does.
-- [Project 2](link): A brief description of what the project does.
-- [Project 3](link): A brief description of what the project does.
+- [MRSOOL](https://mrsool.co/): Mrsool, founded in 2015, is a leading on-demand delivery platform in the Middle East. It connects users with couriers for various tasks through a chat-based system. By 2019, it reached a GMV of over 1 billion Riyals and served more than 4 million users. Mrsool offers on-demand logistics, in-app listings, and restaurant ordering systems.
+- [JISR](https://www.jisr.net/): Digital Transformation for Human Resources.
+- [Ts3eer](https://tsaeer.com/): Launched in 2022, this technical platform aids shop owners by automating price tag design and printing via a mobile app. It ensures updated product prices and includes an admin dashboard for efficient product list management.
 
-## Contributions
-
-- [Contribution 1](link): Description of your contribution.
-- [Contribution 2](link): Description of your contribution.
-- [Contribution 3](link): Description of your contribution.
 
 ## Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](link)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](link)
-- [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=web&logoColor=white)](link)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/omer-algreeb)
 
-![Developer at Work](https://your-image-link.com)
 
 ## Tech Stack
 
