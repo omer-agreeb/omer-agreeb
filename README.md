@@ -16,7 +16,7 @@ I build scalable backend systems, lead engineering teams, and design AI-powered 
 
 ## Professional Summary
 
-I have 4+ years of experience building and scaling web applications with Ruby on Rails and modern backend technologies. In addition to application development, I work on engineering leadership, AI-powered product development, observability design, and production infrastructure optimization.
+I have 6+ years of experience building and scaling web applications with Ruby on Rails and modern backend technologies. In addition to application development, I work on engineering leadership, AI-powered product development, observability design, and production infrastructure optimization.
 
 My focus is on delivering systems that are scalable, maintainable, measurable, and reliable in production.
 
